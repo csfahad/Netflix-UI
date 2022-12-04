@@ -1,3 +1,6 @@
+<h2>Built the Netflix UI (Frontend) using React, Sass with clean & Crisp UI, revised the axios (for fetching data from API😊), lots of fun while making this..🚀🚀</h2>
+<h3>Take a look - https://netflix-ui-csfahad.vercel.app/</h3>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
